@@ -1,0 +1,6 @@
+/text-1.txt 
+/text-2.txt 
+/.vscode/
+
+# Auto generatedd files
+auto-gen-files/*.txt
